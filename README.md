@@ -24,7 +24,7 @@ During the development of the website, I learned about things I thought took a l
 The ```qrcode``` library provides simple settings and ways to implemenet QR generation in a website, all you have to do is create a function that hosts this library variable in it, with the needed options and calling it inside of the button, and you have yourself a QR generation function!  
 
 ### ⬇ Downloading Files:  
-Do you actually mean to tell me that having a function to download a file into the user's computer is basically using the ```download``` inside an ```<a>``` element?! It is easy, but I'm pretty sure that heavy downloads require a more professional approach, but for ```.png``` file that only take little Kb's on the computer, this approach works.  
+Do you actually mean to tell me that having a function to download a file into the user's computer is basically using the ```download``` inside an ```<a>``` element?! It is easy, but I'm pretty sure that heavy downloads require a more professional approach, but for a ```.png``` file that only take little Kb's on the computer, this approach works.  
 
 ## 🏗 How Can It Be Improved?  
 - Adding a color box that lets the user pick the desired color of the generated QR code.  
