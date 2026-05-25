@@ -1,0 +1,14 @@
+.qr-container{
+    margin-bottom: 1.75rem;
+
+    height: 17rem;
+    width: 17rem;
+    border-radius: 2rem;
+    corner-shape: squircle;
+    background-color: rgba(219, 206, 165, 0.25);
+
+    border-right: 0.15rem solid rgba(219, 206, 165, 0.25);
+    border-bottom: 0.15rem solid rgba(219, 206, 165, 0.25);
+
+    box-shadow: rgba(255, 255, 255, 0.1) 0.25rem 0.25rem;
+}
