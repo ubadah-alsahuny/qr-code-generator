@@ -13,7 +13,7 @@ Here is what QR Code Generator has to offer for the user:
 * QR Code Download: The user can also download their QR code into their computer as a ```.png``` file.  
 
 ## 👨🏽‍🍳 The Process
-Who doesn't know QR codes? Everyone! It has became a necessity in life, companies, buisnesses, and personal lives. So, I decided to create a website that can help you generate a QR code for the any link you want.  
+Who doesn't know QR codes? No one! It has became a necessity in life, companies, buisnesses, and personal lives. So, I decided to create a website that can help you generate a QR code for the any link you want.  
 I went to a palette-generating website and saw a warm palette that looked suitable for this website.  
 I created the files and design, and then imported the ```qrcode``` library into my project.  
 I had some help from YouTube and the official documentaion of the library to know exactly how to use it. It wasn't hard to get around it!  
